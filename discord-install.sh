@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Downloading Discord..."
 curl -L -o discord.tar.gz "https://discord.com/api/download?platform=linux&format=tar.gz"
 
